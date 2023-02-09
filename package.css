@@ -1,0 +1,201 @@
+
+.prag1{
+color:rgb(41, 41, 117);
+font-size: 150%;
+}
+.imgg{
+    width: 64%;
+    margin-left: 11%;
+    margin-top: 15px;
+    height: 50%;
+    border-radius: 5px;
+}
+.header3 {
+   margin-left: 17%;
+}
+ul li {
+    margin-left:12% ;
+    font-size: 125%;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+.note2 {
+    font-size: 130% ;
+    font-style: solid;
+}
+section {
+    width: 90%;
+    height: 300px;
+    background-color: hsl(0, 0%, 23%);
+    margin-bottom: 5%;
+    margin-top: -2%;
+    margin-left:4%;
+    box-shadow: 2px 6px 9px black;
+    border-radius: 5px;
+}
+.rect{
+    width: 30%;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    margin-bottom: 5%;
+    margin-top: -20%;
+    margin-right: 4%;
+    box-shadow: 2px 6px 9px black;
+    border-radius: 5px;
+    float: right;
+}
+.imgg{
+    width: 100%;
+    margin-left: 0%;
+    margin-top: -2%;
+    height: 45%;
+    border-radius: 5px;
+}
+
+.pra2{
+    font-size: 80%;
+    margin-left: -3900%;
+    margin-top: -8%;
+}
+.s{color: #9b5151;}
+
+.pra3{
+    font-size: 120%;
+    margin-left: -10000%;
+ 
+    color: rgb(87, 87, 87);
+}
+h5{
+    font-size: 180%;
+    margin-top: 8px;
+    margin-left: 2%;
+}
+.material-symbols-outlined{
+    margin-left: 20px;
+    margin-top: -75px;
+    color: #d10000;
+}
+.alar{
+    margin-top: -10%;
+    color: #d10000;
+    font-size:125%;
+    margin-left: -25%;
+}
+input[type="button"]:hover {
+    color: rgb(255, 255, 255);
+    background-color: #323533;
+    box-shadow: 0 0 5px #323533, 0 0 20px #323533, 0 0 40px #323533;
+}
+div.button1 button.buy
+{
+    padding: 2px;
+    width: 30%;
+    height: 40px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: 2%;
+    color: white;
+    font-size: 20px;
+    background: #23074d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}  
+div.button1 button.buy:hover{
+    background: #cc5333;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,  #23074d,#cc5333);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #23074d, #cc5333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 4px 12px 18px #23074d;
+}
+div.button1 button.cancel
+{
+    padding: 2px;
+    width: 30%;
+    height: 40px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: 2%;
+    color: white;
+    font-size: 20px;
+    background: #23074d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    visibility: hidden;
+}
+div.button1 button.cancel:hover{
+    background: #cc5333;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,  #23074d,#cc5333);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #23074d, #cc5333); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 4px 12px 18px #23074d;
+}
+.dis{
+    color: black;
+    font-size: 110%;
+    margin-top: -20%;
+    margin-left: 20%;
+    margin-bottom: 7%;
+}
+.diss{
+    color: #585858;
+    font-size: 100%;
+}
+.cour{
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+    padding-top: 2%;
+    margin-left: -9%;
+}
+.pragra{
+    color: #ffffff;
+    font-size: 120%;
+    margin-left: -9%;
+}
+.rat{color: #ceb855; margin-left:-7% ;margin-top: -3.5%;}
+#star{
+    color: #ceb855;
+    margin-left:3%
+}
+.rat3{
+    color: white;
+    font-size: 100%;
+    margin-top: -3.7%;
+    margin-left: -3%;
+}
+.rat2{
+    color: #b699fa;
+}
+.rat4{
+    color: white;
+    font-size: 100%;
+    margin-top: 1.5%;
+    margin-left: -9%;
+}
+.rat1{
+    color: #b699fa;
+}
+#rep{
+    color: white;
+    margin-bottom: 4%;
+    margin-left: 3%;
+}
+.rat5{
+    color: white;
+    font-size: 100%;
+    margin-top: -5.7%;
+    margin-left: -7%;
+}
+h6{
+    font-size: 180%;
+    margin-top: 8px;
+    margin-left: 8%;
+}
+#rep1{color: rgb(0, 0, 0);}
+.list{
+    font-size: 130%;
+    margin-top: -45px;
+    margin-bottom: 5%;
+    margin-left: -2%;
+}
